@@ -1,1 +1,1 @@
-console.log('sanity check')
+const input = document.getElementById('input')
